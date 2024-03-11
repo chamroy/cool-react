@@ -1,0 +1,33 @@
+main {
+  padding: 20px 27px;
+  font: 40px;
+  color: white;
+  line-height: 25px;
+  background-image:url("../assets/react-logo.png");
+  background-repeat: no-repeat;
+    background-position-x: right;
+    background-position: right 75%;
+    background-size: 300px;
+    
+ 
+}
+
+.heading {
+  margin-bottom: 25px;
+ 
+ 
+}
+
+ul > li{
+    padding-block: 10px;
+    max-width: 400px;
+    
+}
+
+ul > li::marker {
+    color: #61DAFB;
+    font-size: 25px;
+   
+   }
+
+

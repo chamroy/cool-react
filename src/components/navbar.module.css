@@ -1,0 +1,30 @@
+navbar{
+
+    display: flex;
+    align-items: center;
+    background-color: #21222A;
+    padding: 30px 25px;
+    height: 90px;
+
+
+}
+
+navbar > h1 {
+    margin: 0;
+    color: #61DAFB;
+    margin-right: auto;
+    font-weight: 700;
+    font-size: 25px;
+}
+
+navbar > h2{
+    margin: 0;
+    color: #DEEBF8;
+    font-weight: 600px;
+}
+
+.img{
+    width: 60px;
+    margin-right: 9px;
+}
+
